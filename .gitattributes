@@ -1,0 +1,4 @@
+# GitHub language stats: count the site's own code only.
+.claude/** linguist-vendored
+assets-src/** linguist-documentation
+package-lock.json linguist-generated
