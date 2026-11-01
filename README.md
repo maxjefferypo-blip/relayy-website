@@ -1,4 +1,18 @@
-# Relay
+<p align="center">
+  <img src=".github/assets/relay-banner.jpg" alt="RELAY" width="100%">
+</p>
+
+<p align="center"><strong>A founder-led, fractional growth partner.</strong></p>
+
+<p align="center">
+  <img alt="React 19" src="https://img.shields.io/badge/React-19-0B0B0C?style=flat-square&logo=react&logoColor=F5F5F5">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B0B0C?style=flat-square&logo=typescript&logoColor=F5F5F5">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-8-0B0B0C?style=flat-square&logo=vite&logoColor=F5F5F5">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-3.4-0B0B0C?style=flat-square&logo=tailwindcss&logoColor=F5F5F5">
+  <img alt="Deployed on Netlify" src="https://img.shields.io/badge/Deployed%20on-Netlify-0B0B0C?style=flat-square&logo=netlify&logoColor=F5F5F5">
+</p>
+
+---
 
 Marketing site for Relay — a founder-led, fractional growth partner.
 Single-page React app, prerendered to static HTML at build time: hero,
